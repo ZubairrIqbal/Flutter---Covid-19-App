@@ -1,16 +1,8 @@
-# flutter_restapis
+COVID-19 Tracker App
+This is a Flutter-based COVID-19 tracking app that showcases real-time data fetched from an external API. The app includes features such as API integration, custom loading animations, and a shimmer effect for a sleek and responsive user experience.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features:
+API Integration: Fetches real-time COVID-19 statistics.
+Shimmer Effect: Displays a shimmering placeholder while data loads.
+Loading Animation: Custom animation controller for smooth transitions during data loading.
+This project helped me dive into Flutter's capabilities with network requests and user interface enhancements.
